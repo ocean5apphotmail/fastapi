@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mfpoc-fastapi-demo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F5AB71EF61254A6C98D8B602CD647A4B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9125BCBFBD474E92BD51624CB5032194 }}
